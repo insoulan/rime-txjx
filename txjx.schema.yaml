@@ -152,7 +152,7 @@ emoji_cn:
 
 ## 简繁转换
 jffh:
-  opencc_config: s2g.json
+  opencc_config: s2tw.json
   option_name: jffh
 
 ## 英文标点
